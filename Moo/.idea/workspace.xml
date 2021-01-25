@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e187ca47-1b11-4b7f-bc23-322873c2ff25" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1nXKGRdOR9DIdosMJV180aZwCJ2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Moo" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e187ca47-1b11-4b7f-bc23-322873c2ff25" name="Default Changelist" comment="" />
+      <created>1611530899107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611530899107</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="519" y="321" key="com.intellij.ide.util.TipDialog" timestamp="1611531769095">
+      <screen x="0" y="23" width="1680" height="932" />
+    </state>
+    <state x="519" y="321" key="com.intellij.ide.util.TipDialog/0.23.1680.932@0.23.1680.932" timestamp="1611531769095" />
+    <state x="468" y="147" key="new project wizard" timestamp="1611542426857">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="468" y="147" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1611542426857" />
+    <state x="505" y="227" key="search.everywhere.popup" timestamp="1611538672971">
+      <screen x="0" y="23" width="1680" height="932" />
+    </state>
+    <state x="505" y="227" key="search.everywhere.popup/0.23.1680.932@0.23.1680.932" timestamp="1611538672971" />
+  </component>
+</project>

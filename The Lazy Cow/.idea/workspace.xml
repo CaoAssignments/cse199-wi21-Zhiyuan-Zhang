@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21b02ba3-fded-4670-a5a5-831fb5196315" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1nRcpUTdnHeXiXV2U9C7d9AHyoZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Cow Art" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21b02ba3-fded-4670-a5a5-831fb5196315" name="Default Changelist" comment="" />
+      <created>1611356526447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611356526447</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="578" y="243" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611529758901">
+      <screen x="0" y="23" width="1680" height="932" />
+    </state>
+    <state x="578" y="243" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.932@0.23.1680.932" timestamp="1611529758901" />
+    <state width="1638" height="785" key="GridCell.Tab.0.bottom" timestamp="1611368167665">
+      <screen x="0" y="23" width="1680" height="936" />
+    </state>
+    <state width="1638" height="785" key="GridCell.Tab.0.bottom/0.23.1680.936@0.23.1680.936" timestamp="1611368167665" />
+    <state width="1638" height="785" key="GridCell.Tab.0.center" timestamp="1611368167664">
+      <screen x="0" y="23" width="1680" height="936" />
+    </state>
+    <state width="1638" height="785" key="GridCell.Tab.0.center/0.23.1680.936@0.23.1680.936" timestamp="1611368167664" />
+    <state width="1638" height="785" key="GridCell.Tab.0.left" timestamp="1611368167663">
+      <screen x="0" y="23" width="1680" height="936" />
+    </state>
+    <state width="1638" height="785" key="GridCell.Tab.0.left/0.23.1680.936@0.23.1680.936" timestamp="1611368167663" />
+    <state width="1638" height="785" key="GridCell.Tab.0.right" timestamp="1611368167664">
+      <screen x="0" y="23" width="1680" height="936" />
+    </state>
+    <state width="1638" height="785" key="GridCell.Tab.0.right/0.23.1680.936@0.23.1680.936" timestamp="1611368167664" />
+    <state x="257" y="111" key="new project wizard" timestamp="1611529928086">
+      <screen x="0" y="23" width="1680" height="932" />
+    </state>
+    <state x="257" y="111" key="new project wizard/0.23.1680.932@0.23.1680.932" timestamp="1611529928086" />
+  </component>
+</project>
